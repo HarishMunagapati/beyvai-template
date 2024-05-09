@@ -1,14 +1,25 @@
 # Site Settings
 name: Beyvai
-title: Beyvai | Den for Deals
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: Beyvai | Unveiling the Best Products & Deals!
+description: "Welcome to Beyvai, where we bring you honest reviews and unbeatable deals!
+At Beyvai, we're dedicated to helping you make informed decisions and snag the best deals in the affiliate marketing world. Our team meticulously researches and reviews products, offering unbiased insights to help you find the perfect fit for your needs. Whether you're searching for the latest gadgets, fashion trends, or household essentials, Beyvai has you covered with detailed reviews and exclusive deals. Trust Beyvai to be your trusted source for product recommendations and unbeatable savings!"
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - AffiliateMarketingTips
+  - ProductReviewBlog
+  - BestDealsOnline
+  - DigitalMarketingInsights
+  - EcommerceReviews
+  - TechGadgetsReview
+  - FashionTrends2024
+  - HomeEssentialsGuide
+  - MoneySavingHacks
+  - OnlineShoppingGuide
+  - DiscountCodes
+  - TopProductPicks
+  - SavingsStrategies
+  - ExclusiveDiscounts
+  - BestBuys2024
+  
 show_hero: true
 menu:
   - title: Home
