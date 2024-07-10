@@ -4,8 +4,8 @@ layout: post
 title: "Unmatched Quality and Service: Exploring Sony TVs"
 subtitle:
 description:
-# image: https://source.unsplash.com/nmTm7knUnqs
-image: 
+image: https://source.unsplash.com/nmTm7knUnqs
+# image: 
 optimized_image: https://source.unsplash.com/nmTm7knUnqs
 category: Sony
 tags:
